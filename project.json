@@ -1,0 +1,72 @@
+{
+  "name": "CallCenterJakLingko",
+  "projectId": "c6a5ad97-1ed5-4ca4-8a09-160b55958f7b",
+  "description": "This project aims to develop a Language Learning Model (LLM) integrated into a chatbot platform specifically designed to address inquiries related to the Jaklingko public transportation system.",
+  "main": "Main.xaml",
+  "dependencies": {
+    "GERT.Telegram.Activities": "[1.2.0]",
+    "Google.Apis.BigQueryConnectionService.v1beta1": "[1.64.0.3139]",
+    "Google.Cloud.BigQuery.V2": "[3.5.0]",
+    "UiPath.AmazonWebServices.Activities": "[2.6.0]",
+    "UiPath.Excel.Activities": "[2.22.3]",
+    "UiPath.GSuite.Activities": "[2.4.3]",
+    "UiPath.IntegrationService.Activities": "[1.1.0]",
+    "UiPath.Mail.Activities": "[1.21.1]",
+    "UiPath.Python.Activities": "[1.7.1]",
+    "UiPath.Slack.IntegrationService.Activities": "[5.2.0-preview]",
+    "UiPath.System.Activities": "[23.10.3]",
+    "UiPath.Testing.Activities": "[23.10.0]",
+    "UiPath.UIAutomation.Activities": "[23.10.7]",
+    "UiPath.WebAPI.Activities": "[1.18.0]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "23.10.2.0",
+  "projectVersion": "1.0.8",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": false,
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "bb1fa650-5720-4a8a-8fd5-915813c947dc",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}

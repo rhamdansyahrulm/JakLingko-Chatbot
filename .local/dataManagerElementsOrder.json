@@ -1,0 +1,30 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "pyScript&Sequence_4",
+        "PyAnswer&Sequence_4",
+        "EmailQuestionString&Sequence_8",
+        "testingString&Sequence_8",
+        "AllMatch&Sequence_8",
+        "AnswerToSend&Sequence_8",
+        "StrAnswer&Sequence_8",
+        "ListQuestion&Sequence_5",
+        "receivedEmail&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
